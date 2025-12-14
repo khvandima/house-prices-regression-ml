@@ -75,7 +75,7 @@ This project is part of my **ML/MLOps portfolio**.
 ```text
 house-prices-regression-ml/
  ├─ notebooks/
- │   └─ House_Price.ipynb
+ │   └─ house_prices_regression.ipynb
  ├─ requirements.txt
  └─ README.md
 ```
@@ -96,7 +96,7 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Open Jupyter notebook
-jupyter notebook notebooks/House_Price.ipynb
+jupyter notebook notebooks/house_prices_regression.ipynb
 ```
 
 ---
